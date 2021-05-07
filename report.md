@@ -6,14 +6,14 @@
 
 На тестирование затрачено: 2 часа
 
-В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
+В результате тестирования выявлены следующие дефекты: [Issue #1](https://github.com/goso-nct/netology-java-dz1.1-t1/issues/1)
 
 ## Описание процесса тестирования
 
 В файле Main.java изменялось значение поля number и запускалась программа.
 
-В качестве тестовых использовались данные с сайта https://www.freeformatter.com/credit-card-number-generator-validator.html.
+В качестве тестовых использовались данные с сайта:  
+https://www.freeformatter.com/credit-card-number-generator-validator.html.
 
 ### Положительное тестирование:
 
