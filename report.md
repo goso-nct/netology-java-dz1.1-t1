@@ -6,14 +6,23 @@
 
 На тестирование затрачено: 2 часа
 
-В результате тестирования выявлены следующие дефекты: [Issue #1](https://github.com/goso-nct/netology-java-dz1.1-t1/issues/1)
+В результате тестирования выявлены следующие дефекты:   
+[Клас фэйлит правильную кредитку 4929463495548897535](https://github.com/goso-nct/netology-java-dz1.1-t1/issues/2)  
+[Клас фэйлит правильную кредитку 370378424982769](https://github.com/goso-nct/netology-java-dz1.1-t1/issues/3)  
+[Клас фэйлит правильную кредитку 6011557939298835700](https://github.com/goso-nct/netology-java-dz1.1-t1/issues/4)  
 
 ## Описание процесса тестирования
 
-В файле Main.java изменялось значение поля number и запускалась программа.
+В IntelliJ IDEA был создан проект для тестирования класса Main находящегося в [ДЗ 1.1.1](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)  
+
+Содержание класса было скопировано в файл Main.java  
+
+Тестирование осуществлялось в IntelliJ IDEA изменением значения поля number и запуском класса на выполнение.  
 
 В качестве тестовых использовались данные с сайта:  
 https://www.freeformatter.com/credit-card-number-generator-validator.html.
+
+Было выполнено:
 
 ### Положительное тестирование:
 
