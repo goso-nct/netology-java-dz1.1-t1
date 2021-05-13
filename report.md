@@ -7,9 +7,9 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:   
-[Клас фэйлит правильную кредитку 4929463495548897535](https://github.com/goso-nct/netology-java-dz1.1-t1/issues/2)  
-[Клас фэйлит правильную кредитку 370378424982769](https://github.com/goso-nct/netology-java-dz1.1-t1/issues/3)  
-[Клас фэйлит правильную кредитку 6011557939298835700](https://github.com/goso-nct/netology-java-dz1.1-t1/issues/4)  
+[Приложение не валидирует правильные карты длиной 19 символов](https://github.com/goso-nct/netology-java-dz1.1-t1/issues/5)  
+[Приложение не валидирует правильные карты длиной 15 символов](https://github.com/goso-nct/netology-java-dz1.1-t1/issues/6)  
+[Приложение не валидирует правильные карты длиной 14 символов](https://github.com/goso-nct/netology-java-dz1.1-t1/issues/7)  
 
 ## Описание процесса тестирования
 
